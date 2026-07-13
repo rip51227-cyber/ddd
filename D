@@ -1,4 +1,7 @@
-<html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
 
 <h1>1. Mandioca (Cassava)</h1>
 
@@ -17,3 +20,6 @@ Expansão nas Américas: Já era amplamente cultivada por indígenas do Norte ao
 <p>Origem: Américas Central e do Sul (México, América Central e partes da América do Sul). Domesticada há milhares de anos por povos indígenas.
 Como chegou à Europa: Os espanhóis levaram as pimentas para a Espanha logo após 1492. De lá, elas se espalharam rapidamente por toda a Europa no século XVI.
 Expansão global: Os portugueses foram os grandes responsáveis pela difusão mundial. Levaram as pimentas para a Ásia (Índia, China, Tailândia), África e outras regiões. Em poucas décadas, as pimentas se tornaram essenciais na culinária indiana, chinesa, coreana, africana etc.</p>
+
+</body>
+</html>
